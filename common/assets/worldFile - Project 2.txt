@@ -1,0 +1,85 @@
+ModelFileName(extension) Position(x,y,z) Orientation(x,y,z) Scale Colour(r,g,b,a) Light TextureOp TextureName1 Ratio1 TextureName2 Ratio2 TextureName3 Ratio3 DiscardTexture
+Camera(x,y,z) 0 2 -10
+
+8
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 0 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 0 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 0 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 0 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 0 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0 null
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 -2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 -2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 -2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 -2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 -2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 2.5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 -5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 -5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 -5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 -5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 -5 0 0 0 1 244 244 244 1 1 4 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 1 dfk_floor_01_smmetao.bmp 0.1 null
+
+
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -6.25 0 0 0 90 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -6.25 0 2.5 0 90 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -6.25 0 5 0 90 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -6.25 0 -2.5 0 90 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -6.25 0 -5 0 90 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 6.25 0 0 0 270 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 6.25 0 2.5 0 270 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 6.25 0 5 0 270 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 6.25 0 -2.5 0 270 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 6.25 0 -5 0 270 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 0 0 6.25 0 180 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 2.5 0 6.25 0 180 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 5 0 6.25 0 180 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -2.5 0 6.25 0 180 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -5 0 6.25 0 180 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 2.5 0 -6.25 0 0 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply 5 0 -6.25 0 0 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -2.5 0 -6.25 0 0 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+dfk_wall_1_XYZ_N_RGBA_N_transformed.ply -5 0 -6.25 0 0 0 1 192 192 192 1 1 4 dfk_wall_a_basecolor.bmp 1 dfk_wall_a_normal.bmp 1 dfk_wall_a_SmMetAO.bmp 0.1 null
+
+
+dfk_bed_single_01_XYZ_N_RGBA_UV_tranformed.ply 0 0.1 5 0 180 0 1 244 0 0 1 1 4 dfk_bed_single_01_basecolor.bmp 1 dfk_bed_single_01_normal.bmp 1 dfk_bed_single_01_SmMetAO.bmp 0.1 null
+dfk_wardrobe_01_XYZ_N_RGBA_UV.ply -2.5 0.1 5.75 0 180 0 1 165 165 165 1 1 4 dfk_wardrobe_01_basecolor.bmp 1 dfk_wardrobe_01_normal.bmp 1 dfk_wardrobe_01_SmMetAO.bmp 0.1 null
+
+dfk_bookshelf_XYZ_N_RGBA_UV.ply 6 0.1 0 0 270 0 1 198 100 222 1 1 4 dfk_bookshelf_01_basecolor.bmp 1 dfk_bookshelf_01_normal.bmp 1 dfk_bookshelf_01_SmMetAO.bmp 0.1 null
+
+
+dfk_chairs_XYZ_N_RGBA_UV.ply -4 0.1 -2 0 180 0 1 200 200 200 1 1 4 dfk_chair_01_basecolor.bmp 1 dfk_chair_01_normal.bmp 1 dfk_chair_01_SmMetAO 0 null
+dfk_table_large_XYZ_N_RGBA_UV_transformed.ply -4 0.1 -4 0 0 0 1 20 20 20 1 1 4 dfk_table_large_01_basecolor.bmp 1 dfk_table_large_01_normal.bmp 1 dfk_table_large_01_SmMetAO.bmp 0.1 null
+
+
+mod-bomber_xyz_n_rgba_uv.ply 0 0 -20 0 0 0 0.01 255 255 255 1 1 0 Ship_Pack_WIP-map-all.bmp 1 Lisse_mobile_shipyard-mal1.bmp 0.3 Red_brick_wall_texture.bmp 1 Ship_Pack_WIP-map-all.bmp
+
+
+dfk_crystal_01_XYZ_N_RGBA_UV_transformed.ply 6 1.75 -0.2 0 0 0 0.55 0 0 255 0.75 1 4 dfk_crystal_blue_albedo.bmp 1 dfk_crystal_normal.bmp 0 dfk_crystal_SmMetAO 0.1 null
+dfk_crystal_02_XYZ_N_RGBA_UV_transformed.ply 6 1 0.2 0 0 0 0.5 255 0 0 0.6 1 4 dfk_crystal_red_albedo.bmp 1 dfk_crystal_normal.bmp 0 dfk_crystal_SmMetAO 0.1 null
+
+dfk_crystal_01_XYZ_N_RGBA_UV_transformed.ply -4.1 0.9 -4.25 0 0 0 1 0 0 255 0.75 1 4 dfk_crystal_blue_albedo.bmp 1 dfk_crystal_normal.bmp 1 dfk_crystal_SmMetAO 0.1 null
+dfk_crystal_02_XYZ_N_RGBA_UV_transformed.ply -3.8 0.9 -4.4 0 0 0 1 255 0 0 0.6 1 4 dfk_crystal_red_albedo.bmp 1 dfk_crystal_normal.bmp 1 dfk_crystal_SmMetAO 0.1 null
+
+SM_Prop_Beaker_01_xyz_n_rgba_uv.ply -3.5 0.9 -3.2 0 0 0 1 178 102 255 0.5 1 0 SpaceInteriors_Texture.bmp 1 null 0 null 0 null
+SM_Prop_Beaker_01_xyz_n_rgba_uv.ply -3.6 0.9 -3.6 0 0 0 1 178 102 255 0.8 1 0 SpaceInteriors_Texture.bmp 1 null 0 null 0 null
+SM_Prop_Beaker_01_xyz_n_rgba_uv.ply -4 0.9 -4 0 0 0 1 178 102 255 0.5 1 0 SpaceInteriors_Texture.bmp 1 null 0 null 0 null
+SM_Prop_Beaker_01_xyz_n_rgba_uv.ply -4.1 0.9 -3.4 0 0 0 1 178 102 255 0.2 1 0 SpaceInteriors_Texture.bmp 1 null 0 null 0 null
+
+end

@@ -1,0 +1,29 @@
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 0 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 0 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 0 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 0 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 0 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 -2.5 0 0 0 1 244 244 244 1 1 1 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 -2.5 0 0 0 1 244 244 244 1 1 1 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 -2.5 0 0 0 1 244 244 244 1 1 1 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 -2.5 0 0 0 1 244 244 244 1 1 1 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 -2.5 0 0 0 1 244 244 244 1 1 1 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 2.5 0 0 0 1 244 244 244 1 1 2 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 2.5 0 0 0 1 244 244 244 1 1 2 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 2.5 0 0 0 1 244 244 244 1 1 2 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 2.5 0 0 0 1 244 244 244 1 1 2 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 2.5 0 0 0 1 244 244 244 1 1 2 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 5 0 0 0 1 244 244 244 1 1 3 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 5 0 0 0 1 244 244 244 1 1 3 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 5 0 0 0 1 244 244 244 1 1 3 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 5 0 0 0 1 244 244 244 1 1 3 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 5 0 0 0 1 244 244 244 1 1 3 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0.2 dfk_floor_01_smmetao.bmp 0 null
+
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 0 0 -5 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0 dfk_floor_01_smmetao.bmp 0.2 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 2.5 0 -5 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0 dfk_floor_01_smmetao.bmp 0.2 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply 5 0 -5 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0 dfk_floor_01_smmetao.bmp 0.2 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -2.5 0 -5 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0 dfk_floor_01_smmetao.bmp 0.2 null
+dfk_floor_XYZ_N_RGBA_UV_transformed.ply -5 0 -5 0 0 0 1 244 244 244 1 1 0 dfk_floor_01_basecolor.bmp 1 dfk_floor_01_normal.bmp 0 dfk_floor_01_smmetao.bmp 0.2 null
